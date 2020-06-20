@@ -14,3 +14,6 @@
 <br>
 
 ### 3.2. SQL Server Loop
+<br>
+<div align=center><img src="https://github.com/lclh813/Iteration_Counter/blob/master/0_Pic/P_2_SQL_Structure.png"/></div>
+<br>
